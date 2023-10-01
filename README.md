@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Bhagat</h1>
 <h3 align="center">React Developer | DSA | Competitive Coder</h3>
 <img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/imageurl-d1144.appspot.com/o/b81c030a-32dc-4c23-a212-b7f1b6517933?alt=media&token=2ff81343-06bb-4ba5-bdb3-7dc377f0d672"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rbhagat4196&label=Profile%20views&color=0e75b6&style=flat" alt="rbhagat4196" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rbhagat4196" alt="rbhagat4196" /></a> </p>
-
 - 🔭 I’m currently working on **Airbnb Clone**
 
 - 🌱 I’m currently learning **Backend Services**
