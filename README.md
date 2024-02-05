@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Bhagat</h1>
 <h3 align="center">React Developer | DSA | Competitive Coder</h3>
 <img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/imageurl-d1144.appspot.com/o/b81c030a-32dc-4c23-a212-b7f1b6517933?alt=media&token=2ff81343-06bb-4ba5-bdb3-7dc377f0d672"/>
-- 🔭 I’m currently working on **Notes Making Application ( Notion Clone )**
+- 🔭 I’m currently working on **DSA/Problem Solving**
 
 - 🌱 I’m currently learning **Backend Services**
 
